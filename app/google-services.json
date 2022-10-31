@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616098071207",
+    "project_id": "location-reminders-364113",
+    "storage_bucket": "location-reminders-364113.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616098071207:android:312bd047a26332512a1182",
+        "android_client_info": {
+          "package_name": "com.udacity.project4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616098071207-v97ussnar15fu1d4ulie0un9291a6qsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANvXD0VHw2X6TOkD6gM9o4LuZOQiq-qcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616098071207-v97ussnar15fu1d4ulie0un9291a6qsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
